@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Reid J. Simpson]]></title>
+        <description><![CDATA[Reid J. Simpson]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 02 May 2016 23:21:04 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Welcome to ReidJSimpson.com - this site is dedicated to optimal health in all areas of life. We will follow a journey to improve our physical, mental, emotional, relational, financial, spiritual and vocational well-being. I'm glad you're here.</p>]]></description>
+            <link>undefinedwelcome-to-reidjsimpsoncom-this-site-is-dedicated-to-opti/index.html</link>
+            <guid isPermaLink="false">609c25c7-7c07-4bb9-98b0-b2eaeeb8d5a2</guid>
+            <pubDate>Mon, 02 May 2016 23:20:34 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
