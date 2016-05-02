@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "Welcome to ReidJSimpson.com - this site is dedicated to optimal health in all areas of life. We will follow a journey to improve our physical, mental, emotional, relational, financial, spiritual and vocational well-being. I'm glad you're here."
-datePublished: '2016-05-02T23:20:34.520Z'
-dateModified: '2016-05-02T23:20:19.644Z'
+datePublished: '2016-05-02T23:20:54.500Z'
+dateModified: '2016-05-02T23:20:54.266Z'
 title: ''
 author: []
 authors: []
