@@ -1,6 +1,6 @@
 name: Reid J. Simpson
 favicon: null
-layout_spectrum: 0.74123
+layout_spectrum: 0
 typography_spectrum: 0.543
 title: Reid J. Simpson
 cta:
@@ -22,7 +22,7 @@ color:
     - '#0d0d0f'
     - '#747579'
     - '#2c3135'
-  brandStrength: 0.8605020153336227
+  brandStrength: 0.9375
   lightness: 0.6896931990049779
   saturation: 0.20332148158922791
   rhythmicContrast: 0.8348859190009534
